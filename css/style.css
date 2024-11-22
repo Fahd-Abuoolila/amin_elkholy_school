@@ -484,7 +484,7 @@ button.navbar-toggler{
     #about{
         background-repeat: no-repeat;
         background-position: center right;
-        background-image: url(../img/make-your-life-horizontal-no-text.webp);
+        background-image: url(https://fahd-abuoolila.github.io/amin_elkholy_school-image/make-your-life-horizontal-no-text.webp);
         width: 100%;
         /* height: 100vh; */
     }
@@ -503,7 +503,7 @@ button.navbar-toggler{
 }
 /* services */
 #services{
-    background: url(../img/make-your-life-horizontal-no-text.webp) no-repeat;
+    background: url(https://fahd-abuoolila.github.io/amin_elkholy_school-image/make-your-life-horizontal-no-text.webp) no-repeat;
     padding-top: 3rem !important;
     background-position: center right;
     padding-bottom: 3rem !important;
@@ -729,7 +729,7 @@ button.navbar-toggler{
     #our-team{
         background-repeat: no-repeat;
         background-position: center right;
-        background-image: url(../img/make-your-life-horizontal-no-text.webp);
+        background-image: url(https://fahd-abuoolila.github.io/amin_elkholy_school-image/make-your-life-horizontal-no-text.webp);
         width: 100%;
         height: auto;
     }
